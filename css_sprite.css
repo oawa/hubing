@@ -1,0 +1,12 @@
+.icon-level {
+    background-image: url(/path/images);
+    baclground-repeat: no-repeat;
+    float: left;
+    width: 16px;
+    height: 18px;
+    margin-right: 4px;
+}
+
+.brain .icon-comrade {
+    background-position: 0 -126px;
+}
